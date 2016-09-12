@@ -20,3 +20,5 @@ Disable autocomplete, autocorrect, autocapitalize and spellcheck on input (works
 <input autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
 ```
 
+In React, those HTML attributes use camel case. [tags and attributes](https://facebook.github.io/react/docs/tags-and-attributes.html)
+
