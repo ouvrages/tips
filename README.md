@@ -22,3 +22,12 @@ Disable autocomplete, autocorrect, autocapitalize and spellcheck on input (works
 
 In React, those HTML attributes use camel case. [tags and attributes](https://facebook.github.io/react/docs/tags-and-attributes.html)
 
+## Rails
+
+### Mailer
+
+To use image_tag with hostname
+
+```
+config.action_mailer.asset_host = "http://localhost:3000"
+```
